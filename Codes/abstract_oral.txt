@@ -31,13 +31,13 @@
 					<em><sup>1</sup>{}</em>
 				</p>
 				<p style="text-align: center">
-					<a href="{}">Panapto Presentation Video</a><br>
+					<a href="{}"></a><br>
 					<a href="{}">{}</a>
 				</p>
 				<p style="text-align: justify">{}</p>
 				<br>
 				<h1 style="text-align: center; font-size: 20px; text-transform: none; font-weight: normal;">
-					Go to <a href="./index.html" style="color:red">El Dia 2022 Home Page</a>
+					Go to <a href="./index.html" style="color:red">El Dia 2023 Home Page</a>
 				</h1>
 			</div>
 		</section>
@@ -47,8 +47,8 @@
 		<footer id="footer">
 			<img src="../images/ua_sci_hydroatmo.png" alt="" width="25%" style="margin-left: auto; margin-right: auto:"/><br><br>
 			<ul class="copyright" style="margin: 0px; text-align: center; vertical-align: center">
-				<li>&copy; Reza Ehsani, 2021</li>
-              	<li><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Feldia2022.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="vertical-align: text-bottom" /></a></li>
+				<li>&copy; Reza Ehsani, 2021; Edited by YH. Wang 2022-2023</li>
+              	<li><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Feldia-web.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="vertical-align: text-bottom" /></a></li>
 				<li>Contact Us: <a href="mailto:has.student.symposium@gmail.com" style="color:red">has.student.symposium@gmail.com</a></li>
               </ul>
 		</footer>
