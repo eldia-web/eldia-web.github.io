@@ -57,15 +57,15 @@ for j, session in enumerate(sessions):
     tables.append(table)
 
 #%%
-poster[70] = poster[70].format(tables[3])
-poster[81] = poster[81].format(tables[4])
+poster[70+1] = poster[70+1].format(tables[3])
+poster[81+1] = poster[81+1].format(tables[4])
 
 with open(r'/Users/yhwang/Desktop/HPC_DownloadTemp/eldia-web.github.io/abstracts_poster.html', 'w', encoding='utf-8') as f:
         f.writelines(poster)
 
-oral[73] = oral[73].format(tables[0])
-oral[85] = oral[85].format(tables[1])
-oral[97] = oral[97].format(tables[2])
+oral[73+1] = oral[73+1].format(tables[0])
+oral[85+1] = oral[85+1].format(tables[1])
+oral[97+1] = oral[97+1].format(tables[2])
 
 with open(r'/Users/yhwang/Desktop/HPC_DownloadTemp/eldia-web.github.io/abstracts_oral.html', 'w', encoding='utf-8') as f:
         f.writelines(oral)
